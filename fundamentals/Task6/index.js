@@ -1,11 +1,4 @@
-let value = prompt('Type the number', 0);
-
-if (value > 0){
-    alert(1);
-}else if (value < 0){
-    alert(-1);
-}else if (value == 0){
-    alert(0);
-}else {
-    alert(Error)
-}
+let arr =  [1, 2, 3, 4, 5, 6, 7, 8, 9]
+console.log(arr)
+arr.splice(4, 1, 0, 0, 0)
+console.log(arr)
