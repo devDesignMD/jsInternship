@@ -1,7 +1,5 @@
-const dividers = (item) => {
-    for (let i=1; i <= item; i++) {
-        if (item %i==0 && item ==!item  && item ==!1){
-            console.log(i);
-        }
-    }
+const arr = [8, 7, 2, 2, 3, 4, 2, 5, 5, 6, 7, 8, 5, 9, 0, 1]
+function uniqueSorted (array){
+    return[...new Set(arr)].sort((a, b)=> a- b);
 }
+console.log(uniqueSorted(arr))
