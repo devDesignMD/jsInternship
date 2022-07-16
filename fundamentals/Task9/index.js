@@ -1,11 +1,9 @@
-let value = prompt('Type the number', 0);
+let Name = prompt("What your name?",'');
+alert (`Привет ${Name}`);
 
-if (value > 0){
-    alert(1);
-}else if (value < 0){
-    alert(-1);
-}else if (value == 0){
-    alert(0);
+let know = prompt("Do you know js?",'');
+if (know == 'Yes'){
+    alert('Good')
 }else {
-    alert(Error)
+    alert('Do you want know?')
 }
