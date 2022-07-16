@@ -1,19 +1,7 @@
-let username = prompt("Who are you?", '');
-
-if (username == 'Admin'){
-
-    let password = prompt('Password?', '');
-
-    if (password == 'Boss'){
-        alert ('Hello');
-    }else if (password == '' || password == null ){
-        alert ('Cancel');
-    }else{
-        alert ('incorrect password');
-    }
-
-}else if (username == '' || username == null){
-    alert ('Cancel');
-}else{
-    alert ('incorrect username');
+const colors = ['red', 'green', 'blue']
+function checkColors(){
+    console.log(colors.indexOf('green'))
+    console.log(colors.indexOf('red'))
+    console.log(colors.indexOf('orange'))
 }
+checkColors()
