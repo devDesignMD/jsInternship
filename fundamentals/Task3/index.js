@@ -1,2 +1,8 @@
-alert(Math.max(4, 56, 34));
-alert(Math.min(4, 56, 34))
+const music = [ 'Jazz','Bluz'];
+
+music.push('RocknRoll');
+music[Math.floor((music.length - 1) / 2)] = "Classic";
+const shift = music.shift()
+music.unshift('Rap','Reggy')
+console.log(music)
+console.log(shift)
