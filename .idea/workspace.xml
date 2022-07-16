@@ -1,15 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4320e1b7-329e-4bd8-bd2a-7c7250bc0822" name="Changes" comment="add directory">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fundamentals/Task1/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fundamentals/Task1/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fundamentals/Task2/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fundamentals/Task2/index.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fundamentals/Task3/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/fundamentals/Task3/index.js" afterDir="false" />
+    <list default="true" id="4320e1b7-329e-4bd8-bd2a-7c7250bc0822" name="Changes" comment="git">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,6 +24,11 @@
         <option name="title" value="All" />
       </GitPushTagMode>
     </option>
+    <option name="RECENT_BRANCH_BY_REPOSITORY">
+      <map>
+        <entry key="$PROJECT_DIR$" value="fundamentals" />
+      </map>
+    </option>
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
@@ -50,13 +48,32 @@
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/fundamentals" />
     <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\JS\fundamentals" />
       <recent name="D:\JS\BASE" />
     </key>
+  </component>
+  <component name="RunManager" selected="JavaScript Debug.index.html (2)">
+    <configuration name="index.html (1)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/JS/fundamentals/Task2/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="index.html (2)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/JS/fundamentals/Task11/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/JS/fundamentals/Task1/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.index.html (2)" />
+        <item itemvalue="JavaScript Debug.index.html (1)" />
+        <item itemvalue="JavaScript Debug.index.html" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -68,7 +85,7 @@
       <updated>1658004279923</updated>
       <workItem from="1658004281461" duration="773000" />
       <workItem from="1658005078817" duration="145000" />
-      <workItem from="1658005332390" duration="314000" />
+      <workItem from="1658005332390" duration="5018000" />
     </task>
     <task id="LOCAL-00001" summary="add directory">
       <created>1658005532307</created>
@@ -77,7 +94,154 @@
       <option name="project" value="LOCAL" />
       <updated>1658005532307</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="add directory">
+      <created>1658005753446</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1658005753446</updated>
+    </task>
+    <task id="LOCAL-00003" summary="add directory">
+      <created>1658006220573</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1658006220573</updated>
+    </task>
+    <task id="LOCAL-00004" summary="add directory">
+      <created>1658006343342</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1658006343342</updated>
+    </task>
+    <task id="LOCAL-00005" summary="add directory">
+      <created>1658006433732</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1658006433732</updated>
+    </task>
+    <task id="LOCAL-00006" summary="add directory">
+      <created>1658006558501</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1658006558501</updated>
+    </task>
+    <task id="LOCAL-00007" summary="add directory">
+      <created>1658006629052</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1658006629052</updated>
+    </task>
+    <task id="LOCAL-00008" summary="add directory">
+      <created>1658006837866</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1658006837866</updated>
+    </task>
+    <task id="LOCAL-00009" summary="add directory">
+      <created>1658006905028</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1658006905028</updated>
+    </task>
+    <task id="LOCAL-00010" summary="add respond">
+      <created>1658006985951</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1658006985951</updated>
+    </task>
+    <task id="LOCAL-00011" summary="add respond">
+      <created>1658007057748</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1658007057748</updated>
+    </task>
+    <task id="LOCAL-00012" summary="git">
+      <created>1658007326127</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1658007326127</updated>
+    </task>
+    <task id="LOCAL-00013" summary="git">
+      <created>1658009240137</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1658009240137</updated>
+    </task>
+    <task id="LOCAL-00014" summary="git">
+      <created>1658009308858</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1658009308858</updated>
+    </task>
+    <task id="LOCAL-00015" summary="git">
+      <created>1658009372820</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1658009372820</updated>
+    </task>
+    <task id="LOCAL-00016" summary="git">
+      <created>1658009507827</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1658009507827</updated>
+    </task>
+    <task id="LOCAL-00017" summary="git">
+      <created>1658009576398</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1658009576398</updated>
+    </task>
+    <task id="LOCAL-00018" summary="git">
+      <created>1658009631183</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1658009631183</updated>
+    </task>
+    <task id="LOCAL-00019" summary="git">
+      <created>1658009680792</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1658009680792</updated>
+    </task>
+    <task id="LOCAL-00020" summary="git">
+      <created>1658009771338</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1658009771338</updated>
+    </task>
+    <task id="LOCAL-00021" summary="git">
+      <created>1658009899101</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1658009899101</updated>
+    </task>
+    <task id="LOCAL-00022" summary="git">
+      <created>1658010361942</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1658010361942</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -94,6 +258,17 @@
                   <entry key="Show.Git.Branches" value="true" />
                 </map>
               </option>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="Arrays" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
             </State>
           </value>
         </entry>
@@ -103,6 +278,8 @@
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="add directory" />
-    <option name="LAST_COMMIT_MESSAGE" value="add directory" />
+    <MESSAGE value="add respond" />
+    <MESSAGE value="git" />
+    <option name="LAST_COMMIT_MESSAGE" value="git" />
   </component>
 </project>
