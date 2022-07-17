@@ -1,5 +1,25 @@
-const arr = [8, 7, 2, 2, 3, 4, 2, 5, 5, 6, 7, 8, 5, 9, 0, 1]
-function uniqueSorted (array){
-    return[...new Set(arr)].sort((a, b)=> a- b);
+let admin = {
+    name: "Person",
+    age: 123,
+    salary: 1542.33,
+    contacts: {
+        phone: "112",
+        email: "email@domain.com"
+    },
+    address: "Moldova"
 }
-console.log(uniqueSorted(arr))
+
+let admin2 = {
+    name: 'Admin',
+    age: 123,
+    salary: 2500,
+    contacts: {
+        phone: "112",
+        email: "email@domain.com"
+    },
+    address: "Moldova"
+}
+
+for(let admin in admin2){
+    console.log(admin)
+}
