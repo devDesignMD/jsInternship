@@ -1,12 +1,9 @@
-let user1={
-   name: "Ion",
-   age: 18
- }
- let user2={
-    name: "Ion",
-    age: 18
- }
+let compare_dates = function(date1,date2){
+    if (date1>date2) return ("Date1 > Date2")
+    else if (date1<date2) return ("Date2 > Date1")
+    else return ("Date1 = Date2")
+}
 
-Object.assign(user2, {name: "Piotr", age: 37})
-console.log(user1)
- console.log(user2)
+console.log(compare_dates(new Date('11/14/2013 00:00'), new Date('11/14/2013 00:00')))
+console.log(compare_dates(new Date('11/14/2013 00:01'), new Date('11/14/2013 00:00')))
+console.log(compare_dates(new Date('11/14/2013 00:00'), new Date('11/14/2013 00:01')))

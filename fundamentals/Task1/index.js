@@ -1,7 +1,12 @@
-let user = {}
+let curday = function(sp){
+    today = new Date();
+    let dd = today.getDate();
+    let mm = today.getMonth()+1;
+    let yyyy = today.getFullYear();
 
-user.name = "John";
-user.surname = "Smith";
-user.name = "Pete";
-delete user.name;
-
+    if(dd<10) dd='0'+dd;
+    if(mm<10) mm='0'+mm;
+    return (mm+sp+dd+sp+yyyy);
+};
+console.log(curday('/'));
+console.log(curday('-'));

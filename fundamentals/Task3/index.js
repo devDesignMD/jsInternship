@@ -1,16 +1,17 @@
-let obj ={
-    with: 200,
-    height: 800,
-    title: "My menu"
-}
-
-function multiplyNumeric(obj) {
-     for(let key in obj){
-        if(typeof obj[key]== 'number')  {
-         obj[key] *=2;
-      }
-    }
-}
-
-multiplyNumeric(obj);
-console.log(obj)
+let month_name = function(dt){
+    mlist = [ "January",
+        "February",
+        "March",
+        "April",
+        "May",
+        "June",
+        "July",
+        "August",
+        "September",
+        "October",
+        "November",
+        "December" ];
+    return mlist[dt.getMonth()];
+};
+console.log(month_name(new Date("10/11/2009")))
+console.log(month_name(new Date("11/13/2014")))
