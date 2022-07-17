@@ -1,21 +1,13 @@
-function square (value) {
-    return value * value;
-}
-
-function double(value){
-    return 2 * value;
-}
-
-function triple(value){
-    return 3 * value;
-}
-
-function convert(fn, array){
-    return array.map(item => fn(item));
-}
-
-const initialArray = [1,2,3,4];
-
-console.log('initial: ', initialArray, 'square', convert(square, initialArray));
-console.log('initial: ', initialArray, 'double', convert(double, initialArray));
-console.log('initial: ', initialArray, 'triple', convert(triple, initialArray));
+let admin = {
+   name: "Person",
+   age: 123,
+   salary: 1542.33,
+   contacts: {
+   phone: "112",
+   email: "email@domain.com"
+ },
+   address: "Moldova"
+   }
+   Object.assign(admin,{phone: "+37312345678`"} )
+    delete admin.address
+   console.log(admin)

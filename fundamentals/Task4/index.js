@@ -1,19 +1,12 @@
-function sumInput() {
+let user1={
+   name: "Ion",
+   age: 18
+ }
+ let user2={
+    name: "Ion",
+    age: 18
+ }
 
-    let numbers = [];
-
-    while (true) {
-
-        let value = prompt("Введите число", 0);
-        if (value === "" || value === null || !isFinite(value)) break;
-        numbers.push(+value);
-    }
-
-    let sum = 0;
-    for (let number of numbers) {
-        sum += number;
-    }
-    return sum;
-}
-
-console.log( sumInput() );
+Object.assign(user2, {name: "Piotr", age: 37})
+console.log(user1)
+ console.log(user2)

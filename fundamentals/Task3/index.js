@@ -1,8 +1,16 @@
-const music = [ 'Jazz','Bluz'];
+let obj ={
+    with: 200,
+    height: 800,
+    title: "My menu"
+}
 
-music.push('RocknRoll');
-music[Math.floor((music.length - 1) / 2)] = "Classic";
-const shift = music.shift()
-music.unshift('Rap','Reggy')
-console.log(music)
-console.log(shift)
+function multiplyNumeric(obj) {
+     for(let key in obj){
+        if(typeof obj[key]== 'number')  {
+         obj[key] *=2;
+      }
+    }
+}
+
+multiplyNumeric(obj);
+console.log(obj)
