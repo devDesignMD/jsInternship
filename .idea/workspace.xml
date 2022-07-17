@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="4320e1b7-329e-4bd8-bd2a-7c7250bc0822" name="Changes" comment="git">
+      <change afterPath="$PROJECT_DIR$/fundamentals/Task12/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fundamentals/Task12/index.js" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fundamentals/Task10/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/fundamentals/Task10/index.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -58,10 +59,7 @@
       <recent name="D:\JS\BASE" />
     </key>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.index.html (5)">
-    <configuration name="index.html (1)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/JS/fundamentals/Task2/index.html" useBuiltInWebServerPort="true">
-      <method v="2" />
-    </configuration>
+  <component name="RunManager" selected="JavaScript Debug.index.html">
     <configuration name="index.html (2)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/JS/fundamentals/Task11/index.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
@@ -74,13 +72,16 @@
     <configuration name="index.html (5)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/JS/fundamentals/Task10/index.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
+    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/JS/fundamentals/Task12/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JavaScript Debug.index.html" />
         <item itemvalue="JavaScript Debug.index.html (5)" />
         <item itemvalue="JavaScript Debug.index.html (4)" />
         <item itemvalue="JavaScript Debug.index.html (3)" />
         <item itemvalue="JavaScript Debug.index.html (2)" />
-        <item itemvalue="JavaScript Debug.index.html (1)" />
       </list>
     </recent_temporary>
   </component>
@@ -94,7 +95,7 @@
       <updated>1658004279923</updated>
       <workItem from="1658004281461" duration="773000" />
       <workItem from="1658005078817" duration="145000" />
-      <workItem from="1658005332390" duration="9694000" />
+      <workItem from="1658005332390" duration="10844000" />
     </task>
     <task id="LOCAL-00001" summary="add directory">
       <created>1658005532307</created>
@@ -271,7 +272,14 @@
       <option name="project" value="LOCAL" />
       <updated>1658057996193</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="git">
+      <created>1658060246035</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1658060246035</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
