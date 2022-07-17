@@ -3,14 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="4320e1b7-329e-4bd8-bd2a-7c7250bc0822" name="Changes" comment="git">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fundamentals/Task1/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/fundamentals/Task1/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fundamentals/Task2/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/fundamentals/Task2/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fundamentals/Task3/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/fundamentals/Task3/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fundamentals/Task4/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/fundamentals/Task4/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fundamentals/Task5/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/fundamentals/Task5/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fundamentals/Task6/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/fundamentals/Task6/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fundamentals/Task7/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/fundamentals/Task7/index.js" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fundamentals/Task8/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/fundamentals/Task8/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fundamentals/Task9/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/fundamentals/Task9/index.js" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,11 +58,17 @@
       <recent name="D:\JS\BASE" />
     </key>
   </component>
-  <component name="RunManager" selected="JavaScript Debug.index.html (2)">
+  <component name="RunManager" selected="JavaScript Debug.index.html (4)">
     <configuration name="index.html (1)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/JS/fundamentals/Task2/index.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
     <configuration name="index.html (2)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/JS/fundamentals/Task11/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="index.html (3)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/JS/fundamentals/Task9/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="index.html (4)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/JS/fundamentals/Task8/index.html" useBuiltInWebServerPort="true">
       <method v="2" />
     </configuration>
     <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/JS/fundamentals/Task1/index.html" useBuiltInWebServerPort="true">
@@ -77,6 +76,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JavaScript Debug.index.html (4)" />
+        <item itemvalue="JavaScript Debug.index.html (3)" />
         <item itemvalue="JavaScript Debug.index.html (2)" />
         <item itemvalue="JavaScript Debug.index.html (1)" />
         <item itemvalue="JavaScript Debug.index.html" />
@@ -93,7 +94,7 @@
       <updated>1658004279923</updated>
       <workItem from="1658004281461" duration="773000" />
       <workItem from="1658005078817" duration="145000" />
-      <workItem from="1658005332390" duration="6136000" />
+      <workItem from="1658005332390" duration="8100000" />
     </task>
     <task id="LOCAL-00001" summary="add directory">
       <created>1658005532307</created>
@@ -256,7 +257,14 @@
       <option name="project" value="LOCAL" />
       <updated>1658010464574</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="git">
+      <created>1658054707080</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1658054707080</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

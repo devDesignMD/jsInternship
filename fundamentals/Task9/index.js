@@ -1,6 +1,28 @@
-const array = [1, 'a', 2, null, 3, undefined, 4, {}, 5, 6, 'word', 7, 8, false, 9, 100]
-function filter(num) {
-    for (let i = 0; num > 0; i++)
-        return num < 100
+const weekDays = {
+    Mo: 'Понедельник',
+    Tu: 'Вторник',
+    We: 'Среда',
+    Th: 'Четверг',
+    Fr: 'Пятница',
+    Sa: 'Суббота',
+    Su: 'Воскресенье'
 }
-console.log(array.filter(filter))
+
+const weekDays2 = {
+    Mo: 'Luni',
+    Tu: 'Marti',
+    We: 'Miercuri',
+    Th: 'Joi',
+    Fr: 'Vineri',
+    Sa: 'Sambata',
+    Su: 'Duminica'
+}
+
+function another(days){
+    for (const key in weekDays){
+        weekDays[key] = days[key]
+    }
+}
+
+another(weekDays2)
+console.log(weekDays)
