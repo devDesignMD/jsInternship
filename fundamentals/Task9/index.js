@@ -1,28 +1,11 @@
-const weekDays = {
-    Mo: 'Понедельник',
-    Tu: 'Вторник',
-    We: 'Среда',
-    Th: 'Четверг',
-    Fr: 'Пятница',
-    Sa: 'Суббота',
-    Su: 'Воскресенье'
-}
-
-const weekDays2 = {
-    Mo: 'Luni',
-    Tu: 'Marti',
-    We: 'Miercuri',
-    Th: 'Joi',
-    Fr: 'Vineri',
-    Sa: 'Sambata',
-    Su: 'Duminica'
-}
-
-function another(days){
-    for (const key in weekDays){
-        weekDays[key] = days[key]
+function timer(){
+    var obj=document.getElementById('timer_inp');
+    obj.innerHTML--;
+    if (obj.innerHTML==0){
+        alert('ПОМЕНЯТЬ');
+        setTimeout(function(){},1000);
+    } else {
+        setTimeout(timer,1000);
     }
 }
-
-another(weekDays2)
-console.log(weekDays)
+setTimeout(timer,1000);
